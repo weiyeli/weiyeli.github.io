@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weiyeli.github.io</id>
+    <title>一元一气球</title>
+    <updated>2022-02-10T13:21:20.224Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://weiyeli.github.io"/>
+    <link rel="self" href="https://weiyeli.github.io/atom.xml"/>
+    <subtitle>学习 反思 总结</subtitle>
+    <logo>https://weiyeli.github.io/images/avatar.png</logo>
+    <icon>https://weiyeli.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 一元一气球</rights>
+</feed>
